@@ -1,0 +1,12 @@
+{
+    "name": "fashiostreet/sagar",
+    "description": "fashiostreet client side packages",
+    "type": "prroject",
+    "authors": [
+        {
+            "name": "sagar",
+            "email": "sagarshinde573@gmail.com"
+        }
+    ],
+    "require": {}
+}

@@ -1,0 +1,154 @@
+[  
+   {  
+      "id":30,
+      "name":"Butterfly Me and Mom",
+      "image":"https:\/\/seller.fashiostreet.com\/shops\/original\/Butterfly Me & Mom-1525168442.jpg",
+      "contact":"9823114747",
+      "alternate_contact":"8055989192",
+      "address":"Sawkar Complex, Yusuf Sawakar Colony, Yusuf Sawakar chowk, Islampur",
+      "opening_time":"9.00",
+      "closing_time":"21.00",
+      "imap":"<iframe src=\"https:\/\/www.google.com\/maps\/d\/embed?mid=1U-45-iMlzQ88tF5kEdESj6ta0KjYLt24\" width=\"640\" height=\"480\"><\/iframe>",
+      "gender":[  
+         {  
+            "gender":"Women",
+            "id":2
+         },
+         {  
+            "gender":"Baby and Kids",
+            "id":3
+         }
+      ]
+   },
+   {  
+      "id":31,
+      "name":"Lifestyle",
+      "image":"https:\/\/seller.fashiostreet.com\/shops\/original\/Lifestyle-1525171538.jpg",
+      "contact":"9822079970",
+      "alternate_contact":"9822079970",
+      "address":"Sawkar Complex, Yusuf Sawkar Colony, Islampur.",
+      "opening_time":"9.00",
+      "closing_time":"21.00",
+      "imap":null,
+      "gender":[  
+         {  
+            "gender":"Men",
+            "id":1
+         }
+      ]
+   },
+   {  
+      "id":32,
+      "name":"Denon Collection",
+      "image":"https:\/\/seller.fashiostreet.com\/shops\/original\/Denon Collection-1525263377.jpg",
+      "contact":"7057998006",
+      "alternate_contact":"9664706265",
+      "address":"Near Ram Sagar Hotel, Stand Road Islampur",
+      "opening_time":"9.00",
+      "closing_time":"22.00",
+      "imap":null,
+      "gender":[  
+         {  
+            "gender":"Men",
+            "id":1
+         }
+      ]
+   },
+   {  
+      "id":33,
+      "name":"Darsh Fashion Collection",
+      "image":"https:\/\/seller.fashiostreet.com\/shops\/original\/Darsh Fashion Collection-1525266811.jpg",
+      "contact":"9175434676",
+      "alternate_contact":"9075085060",
+      "address":"Shastri Nagar, Lane 4, Kolhapur Road, Islampur",
+      "opening_time":"10.00",
+      "closing_time":"21.00",
+      "imap":"<iframe src=\"https:\/\/www.google.com\/maps\/d\/embed?mid=1SCq4EH1ryzGvnemIfUo-WtbG6So4tZgz\" width=\"640\" height=\"480\"><\/iframe>",
+      "gender":[  
+         {  
+            "gender":"Men",
+            "id":1
+         },
+         {  
+            "gender":"Women",
+            "id":2
+         },
+         {  
+            "gender":"Baby and Kids",
+            "id":3
+         }
+      ]
+   },
+   {  
+      "id":34,
+      "name":"Shree guru krupa collection",
+      "image":"https:\/\/seller.fashiostreet.com\/shops\/original\/Shree guru krupa collection-1525270253.jpg",
+      "contact":"9172892618",
+      "alternate_contact":"9892002618",
+      "address":"Shop No.4,Anand Sankul, Shirala naka, Islampur -415409",
+      "opening_time":"9.00",
+      "closing_time":"21.00",
+      "imap":null,
+      "gender":[  
+         {  
+            "gender":"Women",
+            "id":2
+         }
+      ]
+   },
+   {  
+      "id":38,
+      "name":"Testing Shop by Fashiostreet",
+      "image":"https:\/\/seller.fashiostreet.com\/shops\/original\/Ganesh collection-1526386107.jpeg",
+      "contact":"8600198512",
+      "alternate_contact":"7558417359",
+      "address":"near bus stand,Islampur",
+      "opening_time":"9.00",
+      "closing_time":"20.00",
+      "imap":"<iframe src=\"https:\/\/www.google.com\/maps\/d\/u\/0\/embed?mid=1uJ5QKhR-MOxv29yQmpVyn2NIECc2tKXz\" width=\"640\" height=\"480\"><\/iframe>",
+      "gender":[  
+         {  
+            "gender":"Men",
+            "id":1
+         },
+         {  
+            "gender":"Women",
+            "id":2
+         }
+      ]
+   },
+   {  
+      "id":39,
+      "name":"Royal Collection",
+      "image":"https:\/\/seller.fashiostreet.com\/shops\/original\/Royal Collection-1527251725.jpg",
+      "contact":"7875696192",
+      "alternate_contact":"8485871178",
+      "address":"S.T. Stand Road, Near Sangli Vaibhav Credit Society, Islampur.",
+      "opening_time":"9.00",
+      "closing_time":"21.00",
+      "imap":"<iframe src=\"https:\/\/www.google.com\/maps\/d\/u\/0\/embed?mid=1IC57kGtOGW4ST72mnRl0uSpMmrhhstWH\" width=\"640\" height=\"480\"><\/iframe>",
+      "gender":[  
+         {  
+            "gender":"Men",
+            "id":1
+         }
+      ]
+   },
+   {  
+      "id":40,
+      "name":"Cottonking",
+      "image":"https:\/\/seller.fashiostreet.com\/shops\/original\/Cottonking-1527339824.jpg",
+      "contact":"8421329789",
+      "alternate_contact":"8421329789",
+      "address":"S.T. Stand Road, in front of Charanseva Shoes, Tal- Walwa, Dist- Sangli 415409",
+      "opening_time":"10.00",
+      "closing_time":"21.00",
+      "imap":null,
+      "gender":[  
+         {  
+            "gender":"Men",
+            "id":1
+         }
+      ]
+   }
+]

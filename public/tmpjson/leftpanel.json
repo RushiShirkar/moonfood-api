@@ -1,0 +1,129 @@
+{
+    "category":[
+        {
+            "category":"MEN CLOTHING",
+            "wear":[
+                {
+                    "wear":"TOP WEAR",
+                    "type":["T-Shirts","Formal Shirts","Casual Shirts","Jackets","Sweatshirts","Sweaters","Kurtas","Sherwanis","Suits","Blazers","Pullovers","Cardigans"]
+                },
+                {
+                    "wear":"BOTTOM WEAR",
+                    "type":["Jeans","Trousers","Cargos","Shorts and 3/4ths","Track pants","Dhotis","Lungis","Pyjamas"]
+                },
+                {
+                    "wear":"SPORTS WEAR",
+                    "type":["Sports T-Shirts","Track pants","Track suits","Shorts"]
+                },
+                {
+                    "wear":"INNERWEAR AND SLEEPWEAR",
+                    "type":["Briefs and trunks","Vests","Boxers","Thermals"]
+                },
+                {
+                    "wear":"FABRICS",
+                    "type":["Shirt Fabrics","Multi-purpose Fabrics","Kurta Fabrics","Trouser Fabrics","Suit Fabrics","Safari Fabrics"]
+                },
+                {
+                    "wear":"OTHERS",
+                    "type":["Raincoats","Wind cheaters"]
+                },
+                {
+                    "wear":"ACCESSORIES",
+                    "type":["Socks","Ties","Cufflinks","Mufflers","Scarfs","Shirt Studs","Cravats","Bandanas","Arm warmers","Pocket squares","Handkerchiefs","Suspenders","Gloves","Turbans","Towels"]
+                }
+            ]
+        },
+        {
+            "category":"WOMEN CLOTHING",
+            "wear":[
+                {
+                    "wear":"WESTERN WEAR",
+                    "type":["Shirts","Tops","Tunics","Kaftans","BodySuits","Polos and T-Shirts","Dresses","Jeans","Trousers","Capris","Cargos","Dungarees","Shorts and Skirts","Fashion Jackets"]
+                },
+                {
+                    "wear":"ETHNIC WEAR",
+                    "type":["Sarees","Kurtas","Dress Material","Lehenga Choli","Blouse","Harem Pants","Patialas","Leggings","Anarkali","Salwars","Blouse Fabrics","Chudidars"]
+                },
+                {
+                    "wear":"WINTER AND SEASONAL",
+                    "type":["Sweaters","Pullovers","SweatShirts","Jackets","Raincoats","Windcheaters","cardigans","coats","Ponchos","Thermals","Winter Jackets","Shawls","Mufflers","Gloves","Socks"]
+                },
+                {
+                    "wear":"SPORTS AND GYM WEAR",
+                    "type":["Track Pants","Track Suits","Track Tops","T-Shirts","Socks and Stockings","Tights","Caps","Sports Bras","Shorts","Sports Jackets","Sarongs"]
+                },
+                {
+                    "wear":"LINGERIE AND SLEEP WEAR",
+                    "type":["Bras","Panties","Night Dresses and Suits","Swim and BeachWears","Gowns"]
+                }
+            ]
+        },
+        {
+            "category":"BABY AND KIDS",
+            "wear":[
+                {
+                    "wear":"BOY'S CLOTHING",
+                    "type":["T-Shirts","Kurtas","Raincoats","Jackets","Sweatshirts","Sweaters","Pullovers"]
+                },
+                {
+                    "wear":"BABY BOY",
+                    "type":["Sleep Suits","Body Suits","T-Shirts"]
+                },
+                {
+                    "wear":"BABY GIRL",
+                    "type":["Sleep Suits","Body Suits","Baby Girl Dresses"]
+                },
+                {
+                    "wear":"GIRL'S CLOTHING",
+                    "type":["Dresses","Skirts","Salwar Kurtas","Kurtas","Lehenga Choli","Ethnic Sets","Sarees","Mufflers","Thermals","Sweaters","Sweatshirts","Raincoats","Jackets"]
+                }
+            ]
+        },
+        {
+            "category":"FOOTWEAR",
+            "wear":[
+                {
+                    "wear":"MENS FOOTWEAR",
+                    "type":["Sports Shoes","Casual Shoes","Formal Shoes","Sandals and Floaters","Flip-Flops","Slides","Slippers","Loafers","Boots","Running Shoes","Sneakers","Clogs"]
+                },
+                {
+                    "wear":"WOMENS FOOTWEAR",
+                    "type":["Flat Sandals","Heel Sandals","Wedges Sandals","Sports Shoes","Casual Shoes","Formal Shoes","Boots","Ballerings","Flip-Flops","Slides","Slippers"]
+                },
+                {
+                    "wear":"BOYS FOOTWEAR",
+                    "type":["Clogs","Sports Shoes","Sandals","Casual Shoes","Boots","Flip-Flops","Ethnic Shoes","School Shoes"]
+                },
+                {
+                    "wear":"GIRLS FOOTWEAR",
+                    "type":["Clogs","Sports Shoes","Sandals","Casual Shoes","Boots","Flip-Flops","Ethnic Shoes","School Shoes","Flat and Bellies"]
+                },
+                {
+                    "wear":"BABY FOOTWEAR",
+                    "type":["Sandals","Shoes","Boots"]
+                }
+            ]
+        },
+        {
+            "category":"WATCHES",
+            "wear":[
+                {
+                    "wear":"DIAL DISPLAY",
+                    "type":["Analogue","Digital","Analogue Digital","Binary","Chronograph","Time Teacher","Smart Watches"]
+                },
+                {
+                    "wear":"DIAL SHAPE",
+                    "type":["Asymmetrical","Oval","Rectangular","Round","Square","Tonheau"]
+                },
+                {
+                    "wear":"BAND MATERIAL",
+                    "type":["Leather","Stainless Steel","Rubber","Gold Plated","Silicon","Plastic","Ceramic","Nylon","Resin","Rose Gold","Silver","Synthetic","Titanium","Tungsten","Yellow Gold"]
+                },
+                {
+                    "wear":"PRICE",
+                    "type":["Under Rs.499","Under Rs.999","Under Rs.1499","Under Rs.1999","Under Rs.2499"]
+                }
+            ]
+        }
+    ]
+}

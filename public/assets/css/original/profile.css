@@ -1,0 +1,62 @@
+input.hidden {
+    position: absolute;
+    left: -9999px;
+}
+
+#profile-image1 {
+    cursor: pointer;
+  
+     width: 100px;
+    height: 100px;
+   border:2px solid #03b1ce ;}
+   .tital{ font-size:16px; font-weight:500;}
+    .bot-border{ border-bottom:1px #f8f8f8 solid;  margin:5px 0  5px 0}
+    .tital{
+        text-align:right;
+    }
+.change_pass{
+  text-decoration: none !important;
+  display: block;
+  color: #FFFFFF;
+}
+.profile_box{
+  margin-top:15px;
+  margin-bottom:15px;
+  border: 1px solid #BDBDBD;
+  border-radius:4px;
+  background-color: #BDBDBD;
+}
+.prof_sidebar{
+  color:#000000;
+  padding:0;
+  text-align:left;
+}
+.prof_sidebar ul li{
+  border-bottom: 1px solid #BDBDBD; 
+}
+.prof_sidebar ul li a:hover{
+  background-color:#E0E0E0; 
+}
+.prof_sidebar ul li a{
+  color: #000000;
+  background-color:#EEEEEE;
+  display: block;
+  text-decoration: none;
+  padding: 15px 10px;
+}
+.menu_icon{
+  padding:0 10px;
+  font-size: 18px;
+  color:#2874f0;
+}
+.menu_arrow{
+  margin-right: 10px;
+}
+.wish_img{
+  width: 140px;
+}
+@media only screen and (max-width: 780px) {
+  .wish_img{
+  width: 100px;
+  }
+}

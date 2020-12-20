@@ -1,0 +1,22 @@
+{  
+    "id":30,
+    "name":"Butterfly Me and Mom",
+    "image":"https:\/\/seller.fashiostreet.com\/shops\/original\/Butterfly Me & Mom-1525168442.jpg",
+    "contact":"9823114747",
+    "alternate_contact":"8055989192",
+    "address":"Sawkar Complex, Yusuf Sawakar Colony, Yusuf Sawakar chowk, Islampur",
+    "opening_time":"9.00",
+    "closing_time":"21.00",
+    "close_days":"Tuesday",
+    "imap":"<iframe src=\"https:\/\/www.google.com\/maps\/d\/embed?mid=1U-45-iMlzQ88tF5kEdESj6ta0KjYLt24\" width=\"640\" height=\"480\"><\/iframe>",
+    "gender":[  
+       {  
+          "gender":"Women",
+          "categories":["Tops","Dresses","Chudidars","Kurtas","Gowns","Track Pants","Jackets","Panties","Leggings"]
+       },
+       {  
+          "gender":"Baby and Kids",
+          "categories":["T-Shirts","Jackets","Sweaters","Kurtas","Dresses","Shorts & Skirts","Baby Girl Dresses"]
+       }
+    ]
+ }
